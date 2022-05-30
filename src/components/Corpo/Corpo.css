@@ -1,0 +1,22 @@
+.div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+H1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+H2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.casa-arvore{
+   margin-left: 100px;
+   margin-bottom: 9px;
+}
